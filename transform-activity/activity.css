@@ -1,3 +1,6 @@
 main {
+    transform: skew(20deg, -15deg);
+    position: relative;
+    right: 40px;
 
 }

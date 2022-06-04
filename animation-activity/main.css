@@ -32,13 +32,15 @@ body  {
 li {
   list-style-type: none;
   margin-bottom: 1em;
+  
 }
 
 a {
   text-decoration: none;
-  color: rebeccapurple;
-  text-shadow: 1px 1px 2px darkgrey;
+  color: rgb(11, 63, 167);
+  text-shadow: 1px 1px 2px rgb(211, 68, 68);
+  
 }
 a:hover {
-  color: ghostwhite;
+  color: rgb(255, 255, 254);
 }
